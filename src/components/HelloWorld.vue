@@ -12,19 +12,19 @@
 
 			<v-flex mb-4>
 				<h1 class="display-2 font-weight-bold mb-3">
-					DAU TU 101
+					Viet Nam Commodity Futures
 				</h1>
 				<p class="subheading font-weight-regular">
-					CƠ CẤU DANH MỤC THUA LỖ,
-					<br />Miễn phí cùng Đầu Tư 101
+					Thuật toán giao dịch hàng đầu thế giới,
+					<br />Mô hình định giá Futures, Option tiên tiến
 					<a href="https://zalo.me/dautu101" target="_blank"
-						>@dautu101</a
+						>@VNCF</a
 					>
 				</p>
 			</v-flex>
 
 			<v-flex mb-5 xs12>
-				<h2 class="headline font-weight-bold mb-3">Đồng hành cùng Đầu Tư 101</h2>
+				<h2 class="headline font-weight-bold mb-3">Cơ hội kiếm lợi nhuận từ  Thị trường toàn cầu</h2>
 
 				<v-layout justify-center>
 					<a
@@ -83,11 +83,11 @@ export default {
 				
 			},
 			{
-				text: 'Email: support@dautu101.com',
+				text: 'Email: support@vncf.vn',
 				
 			},
 			{
-				text: 'hoặc:  research@dautu101.com',
+				text: 'hoặc:  research@vncf.vn',
 				
 			}
 			
@@ -95,7 +95,7 @@ export default {
 		importantLinks: [
 			{
 				text: 'Zalo',
-				href: 'https://zalo.me/dautu101'
+				href: 'https://zalo.me/vncf'
 			},
 			{
 				text: 'WhatsApp Business',
@@ -103,29 +103,21 @@ export default {
 			},
 			{
 				text: 'Tiktok',
-				href: 'https://www.tiktok.com/@chungkhoan'
+				href: 'https://www.tiktok.com/@vncf.vn'
 			}
 			
 		],
 		whatsNext: [
 			{
 				text: 'Nhóm Zalo cộng đồng',
-				href: 'https://zalo.me/g/wsxddc994'
+				href: 'https://zalo.me/g/vncf'
 			},
 			{
-				text: 'Nhóm Zalo WK',
-				href: 'https://zalo.me/g/smqzbm020'
+				text: 'Mở tài khoản và nhận tư vấn',
+				href: 'https://bit.ly/OpenVNCF'
 			},
 			{
-				text: 'Mở Tài khoản miễn phí VPS',
-				href: 'https://bit.ly/VPSSecurities'
-			},
-			{
-				text: 'hoặc Link VPS-WK',
-				href: 'https://bit.ly/HTVPSSecurities'
-			},
-			{
-				text: 'Hướng dẫn mở Tài khoản',
+				text: 'Hướng dẫn giao dịch',
 				href: 'https://drive.google.com/file/d/1zKYg9qeojCaHQHmHdgPjj5NbwsLAt-9e/view?usp=sharing'
 			}
 		]
