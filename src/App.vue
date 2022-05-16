@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-app-bar app color="primary" dark>
-      <v-toolbar-title>ĐẦU TƯ 101</v-toolbar-title>
+      <v-toolbar-title>VNCF</v-toolbar-title>
       <v-spacer></v-spacer>
       <v-btn
         v-for="link in links"

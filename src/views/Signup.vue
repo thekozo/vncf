@@ -12,10 +12,10 @@
             required
           ></v-text-field>
           <v-autocomplete
-            label="Bạn đã đầu tư bao lâu"
+            label="Bạn từng nghe qua về Thị trường Tương lai cho Hàng hóa?"
             :items="browsers"
           ></v-autocomplete>
-          <v-file-input label="Gửi ảnh danh mục hiện tại nếu muốn cơ cấu"></v-file-input>
+          <v-file-input label="Cơ hội kiếm lợi nhuận từ thị trường toàn cầu"></v-file-input>
           <v-text-field
             v-model="birthday"
             label="Birthday"
