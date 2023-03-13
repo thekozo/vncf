@@ -1,5 +1,5 @@
 <template>
-	<div class="researchoff">
+	<div class="research">
 		<HelloWorld msg="VNCF" />
 	</div>
 </template>
