@@ -51,8 +51,8 @@ export default {
           url: '/'
         },
         {
-          label: 'Mở tài khoản Hàng hóa',
-          url: '/skmk'
+          label: 'Thị trường',
+          url: '/research'
         },
         {
           label: 'Đăng nhập',
