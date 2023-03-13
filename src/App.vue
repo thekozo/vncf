@@ -33,7 +33,7 @@
           {{ link.label }}
         </v-btn>
         <v-flex primary lighten-2 py-4 text-center white--text xs12>
-          {{ new Date().getFullYear() }} — <strong>DAU TU 101. All Right Reserved.</strong>
+          {{ new Date().getFullYear() }} — <strong>VNCF. All Right Reserved.</strong>
         </v-flex>
       </v-layout>
     </v-footer>
@@ -51,20 +51,8 @@ export default {
           url: '/'
         },
         {
-          label: 'Trung tâm phân tích',
-          url: '/research'
-        },
-        {
-          label: 'Phân tích kỹ thuật',
-          url: '/ptkt'
-        },
-        {
-          label: 'Bảng giá',
-          url: '/banggia101'
-        },
-        {
-          label: 'Thị trường chuyên sâu',
-          url: '/deepmarket'
+          label: 'Mở tài khoản Hàng hóa',
+          url: '/skmk'
         },
         {
           label: 'Đăng nhập',
@@ -77,7 +65,7 @@ export default {
   },
   methods: {
     toggleTheme() {
-      this.$vuetify.theme.themes.dark.anchor = '#41B883'
+      this.$vuetify.theme.themes.dark.anchor = '#35E734'
       this.$vuetify.theme.dark = !this.$vuetify.theme.dark
     }
   }
