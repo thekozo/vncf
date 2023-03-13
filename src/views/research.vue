@@ -1,5 +1,5 @@
 <template>
-  <div class="research">
+  <div class="home">
           <iframe
             :src="`https://tradingeconomics.com/commodities`"
             width="100%"
