@@ -3,7 +3,7 @@
           <iframe
             :src="`https://tradingeconomics.com/commodities`"
             width="100%"
-            height="1000px"
+            height="2000px"
             scrolling="no"
             frameborder="0"
             sandbox="allow-same-origin allow-scripts">
